@@ -1,6 +1,6 @@
 ### Hi, there!
 - 🌱 백엔드 엔지니어가 되기 위해 열심히 공부 중입니다!
-- More information would be updated soon
+- 🛠 공사중
 
 
 <!--
