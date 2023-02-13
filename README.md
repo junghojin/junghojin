@@ -1,4 +1,4 @@
-### Hi, there!
+
 - 🌱 Junior Engineer
 - 🛠 공사중
 
