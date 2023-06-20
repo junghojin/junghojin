@@ -11,7 +11,7 @@
 
 <br/>
 
-### Target: Ask of "What, Why, How" and Answer neatly
+### >> Target: Ask of "What, Why, How" and Answer neatly
   
 <!--
 **junghojin/junghojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
