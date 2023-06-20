@@ -1,8 +1,10 @@
-- Junior Cloud Engineer
-  - Interested in designing PaaS cloud system and k8s
+
+#### Junior Cloud Engineer
+
+**- Interested in designing PaaS cloud system and k8s**
   - Currently working in the part of Cloud and Linux part
     
-- Majored in Computer Science
+**- Majored in Computer Science**
   - Especially, studied for Graph Mining in Master
 
 
