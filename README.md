@@ -1,5 +1,5 @@
 
-#### Junior Cloud Engineer
+## Junior Cloud Engineer
 
 <br/>
 
@@ -9,6 +9,7 @@
 **- Majored in Computer Science**
   - Especially, studied for Graph Mining in master
 
+<br/>
 
 ### Target: Ask of "What, Why, How" and Answer neatly
   
