@@ -1,5 +1,5 @@
 
-### Junior Cloud Engineer
+#### Junior Cloud Engineer
 
 <br/>
 
@@ -7,10 +7,10 @@
   - Currently working in the part of Cloud and Linux
     
 **- Majored in Computer Science**
-  - Especially, studied for Graph Mining in Master
+  - Especially, studied for Graph Mining in master
 
 
-##### Target: Ask of "What, Why, How" and Answer neatly
+### Target: Ask of "What, Why, How" and Answer neatly
   
 <!--
 **junghojin/junghojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
