@@ -3,15 +3,13 @@
 
 <br/>
 
-**- Interested in designing PaaS cloud system and k8s**
-  - Currently working in the part of Cloud and Linux
+**- Interested in designing Cloud Architecture**
+  - Currently working in the part of PaaS
     
-**- Majored in Computer Science**
-  - Especially, studied for Graph Mining in master
 
 <br/>
 
-### >> Target: Ask of "What, Why, How" and Answer neatly
+### Target: Ask of "What, Why, How" and Answer neatly
   
 <!--
 **junghojin/junghojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
